@@ -2,7 +2,7 @@ import os
 #import datetime
 
 class UserModel:
-    __accountFilePath = "F:/programming/Python/accounts.txt"
+    __accountFilePath = "accounts.txt" #Change location as you wish
     
     #def __init__(self):
         
